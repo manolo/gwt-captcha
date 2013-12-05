@@ -1,0 +1,24 @@
+#Mac OS X generated files
+.DS_Store*
+Thumbs.db
+
+#Compiled 
+/build
+/classes
+*.jar
+*.class
+target
+.project
+.classpath
+.settings
+
+#intellij
+/.idea
+#GWT generated file
+*~
+*.log
+*.log.*
+*.ipr
+*.iml
+*.iws
+
