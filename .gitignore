@@ -5,7 +5,6 @@ Thumbs.db
 #Compiled 
 /build
 /classes
-*.jar
 *.class
 target
 .project
